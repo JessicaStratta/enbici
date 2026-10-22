@@ -1,0 +1,9 @@
+﻿origen,destino,peso_elevacion,peso_viento,permite_senderos,permite_contramano,distancia_km,desnivel_positivo_m,tiempo_algoritmo_s,cantidad_nodos,identificador_ruta,estado,error,git_commit,cambios_locales,fecha_utc
+Plaza Independencia,Facultad de Ingeniería,0,0,True,False,5.1112,40.01,0.029,59,2ef4b53197e300ec,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
+Plaza Independencia,Facultad de Ingeniería,3,0,True,False,5.1112,40.01,0.0246,59,2ef4b53197e300ec,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
+Plaza Independencia,Facultad de Ingeniería,5,0,True,False,5.1112,40.01,0.0197,59,2ef4b53197e300ec,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
+Plaza Independencia,Facultad de Ingeniería,10,0,True,False,5.1112,40.01,0.0201,59,2ef4b53197e300ec,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
+Facultad de Ingeniería,Plaza Independencia,0,0,True,False,5.099,34.07,0.0197,62,5e4746750fef5c4a,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
+Facultad de Ingeniería,Plaza Independencia,3,0,True,False,5.099,34.07,0.0186,62,5e4746750fef5c4a,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
+Facultad de Ingeniería,Plaza Independencia,5,0,True,False,5.099,34.07,0.0185,62,5e4746750fef5c4a,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
+Facultad de Ingeniería,Plaza Independencia,10,0,True,False,5.099,34.07,0.0187,62,5e4746750fef5c4a,OK,,634f71ec78ea4cc0153adc5b400bc55d57fce9d0,True,2026-10-22T10:05:23.698707+00:00
